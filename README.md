@@ -1,4 +1,4 @@
-# RxJava-Dagger2-Room-MVVM-NewsApp
+# News-App-RxJava-Dagger2-MVVM-Room
 
 ###### MEETS SPECIFICATIONS
 
@@ -9,4 +9,3 @@
  App utilizes stable release versions of all libraries, Gradle, and Android Studio.
  Integrated - RxJava,Dagger2,Room Database.
  
-# News-App-RxJava-Dagger2-MVVM-Room
