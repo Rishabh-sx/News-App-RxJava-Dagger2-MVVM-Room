@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="no_internet">No internet</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="retry">Retry</string>
+    <string name="news_image">News Image</string>
+    <string name="share">Share</string>
+    <string name="headlines">Headlines</string>
+    <string name="search">Search</string>
+    <string name="s_save_image">Save Image</string>
+    <string name="something_went_wrong_please">Something went wrong, please try again after some time</string>
+    <string name="s_view_more">view more</string>
+    <string name="s_browser_not_found">Browser not found</string>
+    <string name="s_share_news">Share News</string>
+
+</resources>
